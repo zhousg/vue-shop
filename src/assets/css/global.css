@@ -1,0 +1,29 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.el-step__title {
+  font-size: 12px;
+}
+
+.box-card{
+  margin-top: 15px;
+}
+
+.el-alert {
+  margin-bottom: 15px;
+}
+
+.el-steps {
+  margin-bottom: 20px;
+}
+
+.el-upload-list__item {
+  width: 400px;
+}
